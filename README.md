@@ -1,2 +1,3 @@
 # light-dark-toggle
-Created with CodeSandbox
+
+Light / dark toggle implementation, inspired by Dan Abramov's blog: https://overreacted.io/.
